@@ -6,11 +6,11 @@ title: Felipe Alves
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Economist 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Bank of Canada
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,6 +68,3 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Senior economist, Bank of Canada
-
